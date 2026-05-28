@@ -236,4 +236,4 @@ if __name__ == "__main__":
     # Si quieres volver a ejecutar la lógica aquí:
     ruta_test = generar_ruta_algoritmica(ruta_principal, nodos_desvio, 0.5)
     print("Prueba final completada")
-    
+
